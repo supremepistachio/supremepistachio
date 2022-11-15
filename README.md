@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @supremepistachio
+- 🌱 I’m currently learning RUST and C programming...
+
